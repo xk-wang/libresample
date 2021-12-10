@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "sndfile.h": "c",
+        "libresample.h": "c",
+        "string.h": "c"
+    }
+}

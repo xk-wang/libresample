@@ -11,7 +11,7 @@
 
 **********************************************************************/
 
-#include "../include/libresample.h"
+#include "libresample.h"
 
 #include <sndfile.h>
 
